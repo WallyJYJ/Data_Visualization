@@ -4,7 +4,11 @@
 
 아래의 링크를 참조하여 시각화 된 데이터를 확인해보세요.
 
+https://public.tableau.com/app/profile/findyourwally/vizzes
+
 감사합니다.
+
+
 
 =============================================
 
@@ -13,5 +17,7 @@ Hello Everyone! :)
 I visualize using Tableau with open dataset. 
 
 Please refer to the link and enjoy it.
+
+https://public.tableau.com/app/profile/findyourwally/vizzes
 
 Thank you
