@@ -2,7 +2,7 @@
 
 오픈 데이터 세트를 사용하여 태블로 시각화 하였습니다. 
 
-아래의 링크를 참조하여 시각화 된 데이터를 확인해보세요.
+아래의 링크를 참조하여 시각화을 확인해보세요.
 
 https://public.tableau.com/app/profile/findyourwally/vizzes
 
